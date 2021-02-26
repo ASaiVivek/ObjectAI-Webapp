@@ -1,0 +1,23 @@
+h2{
+    color: red;
+}
+hr{
+    border-top: 3px dashed red;
+    width: 1000px;;
+}
+.abouttxt{
+    text-align: center;
+}
+
+.resultcontent{
+    text-align: center;
+}
+
+img{
+    border: 5px solid #555;
+}
+
+.resultvalues{
+    font-size: 20px;
+    font-weight: lighter;
+}
